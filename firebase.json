@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "thephunkmonk-7785d",
+    "public": "docs",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
